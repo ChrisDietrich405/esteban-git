@@ -8,6 +8,7 @@ function App() {
   <h1>Hello Esteban, <br></br>
   Hello, Chris :)
   </h1>
+  <navbar>this is a navbar</navbar>
   <sidebar>This is a sidebar</sidebar>
   <footer>this is a footer</footer>
   </>
