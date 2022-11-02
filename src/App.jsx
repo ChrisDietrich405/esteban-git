@@ -9,6 +9,7 @@ function App() {
   Hello, Chris :)
   </h1>
   <sidebar>This is a sidebar</sidebar>
+  <footer>this is a footer</footer>
   </>
   )
 }
